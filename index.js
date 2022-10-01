@@ -41,12 +41,15 @@ var happyBirthdayText = `
         <hr class="row-entre-msgs">
 
         <p>Tigrelo, que Deus te abençoe! Que vc continue sendo esse cara humilde,
-        tranquilo, que independente do caos tá rolando continua sempre sereno.
+        tranquilo, que independente do caos continua sempre sereno.
         De coração mesmo, agraço muito por você ceder seu lar para a célula, e que
         Deus fortaleça a amizade de cada um de nós, durante muitos anos e anos! 
         Que vc tenha muito sucesso como dev também! Nunca desista de seguir o caminho que vc escolheu,
         pode sempre contar com todos nós! 
-        
+
+        <br>
+        <br>
+
         Um grande abraço e meus parabéns!!
         </p>
 
@@ -55,15 +58,27 @@ var happyBirthdayText = `
         <hr class="row-entre-msgs">
 
         <p>"poiss é véii", 30 anos de vida, 50 de CLT 😆🤣
+        <br>
+        <br>
         Que você tenha muuuuita felicidade e realização nessa nova fase da sua vida,
         com a certeza de que Deus e todos nós, seus amigos, estaremos com vc aqui,
         sempre, para tuudo que precisar!! Sou muito grato por sua vida e por quem vc é meu bomm!
+
         A veiera agora bateu, como vc sempre diz kkkkkk
-        
+        <br>
+        <br>
         Parabénss manooo!!! 🎉🎉🎉
         </p>
 
         <b>- Pedro</b>
+
+        <hr class="row-entre-msgs">
+
+        <p>Isaac Ferreira Risola Rodrigues o famoso Tigrelo. Receba esta honra varão de Deus, da mais profunda galaxia. Kkkkk parabéns manow, vc é um cara que me inspira demais,
+        guerreiro, batalhador e vitorioso na vida. Jesus te ama muito, tmj.
+        </p>
+
+        <b>- Leozin</b>
 
         <hr class="row-entre-msgs">
 
